@@ -1,6 +1,6 @@
-# myapp
+#APP Calculadora
 
-A new Flutter project.
+Atividade do módulo 3 da disciplina de Desenvolvimento de Web. Atividade desenvolvida com o intuito de mostrar nosso aprendizado sobre o módulo atual.
 
 ## Getting Started
 
